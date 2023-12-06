@@ -4,7 +4,7 @@
 Apocalypse Night: Judgment is a first-person zombie shooter game developed using Unreal Engine. It offers an exciting and immersive gameplay experience with various features, including different game modes, character movements, and combat strategies.
 
 ## Installation
-- Ensure you have Unreal Engine installed on your system.
+- Ensure you have Unreal Engine 4.27.2 or later installed on your system.
 - Download the project files from this repository.
 - Open the project using Unreal Engine.
 
