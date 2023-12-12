@@ -12,7 +12,7 @@ Apocalypse Night: Judgment is a first-person zombie shooter game developed using
 - **Movement**: Use `W`, `A`, `S`, `D` to move forward, left, backward, and right respectively.
 - **Combat**: Use `Z` for melee attacks, `E` for explosives, and `Q` for tactical grenades.
 - **Weapons**: Press `1` for primary weapon, `2` for secondary weapon. Press `G` to drop the current weapon.
-- **Other Controls**: Use `Shift + W` to sprint, `Control` to crouch, `Spacebar` to jump, `C` for prone, and `V` to toggle between FPS and TPS, amd 'F' to interact.
+- **Other Controls**: Use `Shift + W` to sprint, `Control` to crouch, `Spacebar` to jump, `C` for prone, and `V` to toggle between FPS and TPS, amd `F` to interact.
 
 
 ## Acknowledgments
